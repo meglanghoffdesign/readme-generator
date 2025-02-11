@@ -29,7 +29,7 @@ After that, you can run the project with:
 node index.js
 
 ## Usage
-When you run the program, it will prompt you with a series of questions about your project.
+When you run the program, it will prompt you with a series of questions about your project. Here is an application walkthrough: https://www.loom.com/share/eef187e933a14ed490c35dadf67c6b80?sid=b73047a6-78d3-41d3-9d74-7e8e5b829e16
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
